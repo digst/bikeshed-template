@@ -12,6 +12,8 @@ Læs mere:
 
 ### 1 Opret mappe til bikeshed-udstilling
 - Opret /docs mappe i roden af repositoriet
+- Opret filerne index.md og index.html i /docs 
+- Opret eventuelt filerne index-en.md og index-en.html i /docs hvis engelsk oversættelse ønskes
 - Opret eventuelt undermappen /docs/img hvis der skal indgå illustrationer
 
 ### 2 Aktivér GitHub Pages
@@ -21,10 +23,12 @@ Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 - Scroll ned til indstillingerne for GitHub Pages
 - Aktiver og vælg at opbygge html-visningen fra /docs-mappen fra 'main branch'
 
-### 3 Konvertér eventuelt Word (docs) indhold til MD
-Word (docx) filer kan konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
+### 3 Opret indhold i Markdown-format 
+- Skriv din tekst i Markdown format i filen index.md
+Find en Markdwon Guide til GitHub her: https://guides.github.com/features/mastering-markdown/. 
+NB: Word (docx) filer kan også konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
 
-### 4 Konvertér MD til HTML 
+### 4 Konvertér indhold i Markdown til HTML 
 Konvertering af Markdown-indhold til HTML kan fx ske via Bikeshed's webformular.
   
 - Kopier index.md-teksten fra GitHub ind i Bikeshed's webformular: https://api.csswg.org/bikeshed/
