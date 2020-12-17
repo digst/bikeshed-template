@@ -1,5 +1,5 @@
 
-HTML-indholdet  udstilles som GitHub Pages[1] her: https://digst.github.io/bikeshed-template/docs/
+HTML-indholdet  udstilles som GitHub Pages[1] her: https://digst.github.io/bikeshed-template/
 
 Her ligger følgende filer:
 - README.md - Denne fil
