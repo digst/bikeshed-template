@@ -2017,7 +2017,7 @@ dfn > a.self-link::before      { content: "#"; }
  <body class="h-entry">
   <div class="head">
    <p data-fill-with="logo"></p>
-   <h1>Prefix 1.0.0: Titel (på engelsk) </h1>
+   <h1>Prefix 1.0.0: Title </h1>
    <h2 class="no-num no-toc no-ref heading settled" id="subtitle"><span class="content">Living Document, <time class="dt-updated" datetime="2021-01-01">1 January 2021</time></span></h2>
    <div data-fill-with="spec-metadata">
     <dl>
@@ -2185,4 +2185,9 @@ dfn > a.self-link::before      { content: "#"; }
   }
 
 })();
+	
+	 
 </script>
+	 
+<script> /*Set attribute tabindex on all elements in TOC*/ var toc = document.querySelectorAll("#toc .content"); for (var i = 0; i < toc.length; i++) { if (!toc[i].hasAttribute("tabindex")){ var att = document.createAttribute("tabindex"); att.value = "0"; toc[i].setAttributeNode(att); } }  </script>
+
