@@ -25,9 +25,31 @@ Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 - Aktiver og vælg at opbygge html-visningen fra /docs-mappen fra 'main branch'
 
 ### 3 Opret indhold i Markdown-format 
-- Skriv din tekst i Markdown format i filen index.md
+- Skriv din tekst i Markdown format i filen index.md 
+- (Læs evt. Markdown Guide til GitHub: https://guides.github.com/features/mastering-markdown/.)
+- Rediger dokumentets metadata i 'boilerplaten' - se eksempel herunder:
+```
+<pre class="metadata">
+Title: Prefix 1.0.0: Titel
+Status: LD
+URL: https://github.com/digst/bikeshed-template/tree/main/
+Editor Term: Udgiver, Udgivere 
+Editor: Digitaliseringsstyrelsen,, arkitektur@digst.dk
+Abstract: 'Titel' .
+Boilerplate: copyright no, conformance no, abstract no
+Shortname: Kort titel
+Revision: 1.0.0 
+Date: 2021-01-01
+Max ToC Depth: 3
+Markup Shorthands: markdown yes
+Repository: digst/bikeshed-template
+Translation: en https://digst.github.io/bikeshed-template/index-en.html
+Inline Github Issues: full
+Logo: digst...
+</pre>
+```
 
-Find en Markdwon Guide til GitHub her: https://guides.github.com/features/mastering-markdown/. 
+
 
 NB: Word (docx) filer kan også konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
 
