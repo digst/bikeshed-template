@@ -159,6 +159,7 @@ Date: 2021-01-01
 Max ToC Depth: 3
 Markup Shorthands: markdown yes
 Repository: digst/bikeshed-template
+Translation: en https://digst.github.io/bikeshed-template/index-en.html
 Inline Github Issues: full
 Logo: digst...
 </pre>
