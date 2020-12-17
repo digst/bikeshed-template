@@ -42,6 +42,7 @@ Konvertering af Markdown-indhold til HTML kan fx ske via Bikeshed's webformular.
 ### 5 Tilføj tabindex i HTML-filen (WCAG) 
 Indsæt følgende script nederst i body i index.html filen, for at tilføje tabindex i indholdsfortegnelse og rette sprogangivelsen til dansk (da) i visniningen
 
+`
 <script>
     /*Set attribute tabindex on all elements in TOC*/
     var toc =  document.querySelectorAll("#toc .content");
@@ -54,5 +55,5 @@ Indsæt følgende script nederst i body i index.html filen, for at tilføje tabi
     }
     /*Set lang attribute value to "da" in html tag*/
     document.getElementsByTagName("html")[0].setAttribute("lang", "da");
-</script>
+</script>`
 
