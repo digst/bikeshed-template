@@ -147,7 +147,7 @@ p.italic{font-style: italic!important;}
 Title: Prefix 1.0.0: Titel
 Status: LD
 URL: https://github.com/digst/bikeshed-template/tree/main/
-Editor Term: Følgegruppemedlem, Følgegruppemedlemmer 
+Editor Term: Udgiver, Udgivere 
 Editor: Digitaliseringsstyrelsen,, arkitektur@digst.dk
 
 
