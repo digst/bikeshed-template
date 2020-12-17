@@ -27,6 +27,7 @@ Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 - Skriv din tekst i Markdown format i filen index.md
 
 Find en Markdwon Guide til GitHub her: https://guides.github.com/features/mastering-markdown/. 
+
 NB: Word (docx) filer kan også konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
 
 ### 4 Konvertér indhold i Markdown til HTML 
@@ -39,7 +40,7 @@ Konvertering af Markdown-indhold til HTML kan fx ske via Bikeshed's webformular.
 - Vent 3-5 minutter på at GitHub pages genererer visningen: 
 
 ### 5 Tilføj tabindex i HTML-filen (WCAG) 
-Indsæt følgende script nederst i body i index.html filen, for at tilføje tabindex i indholdsfortegnelse:
+Indsæt følgende script nederst i body i index.html filen, for at tilføje tabindex i indholdsfortegnelse og rette sprogangivelsen til dansk (da) i visniningen
 
 <script>
     /*Set attribute tabindex on all elements in TOC*/
