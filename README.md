@@ -12,7 +12,8 @@ Læs mere:
 
 ### 1 Opret mappe til bikeshed-udstilling
 - Opret /docs mappe i roden af repositoriet
-- Opret filerne index.md og index.html i /docs 
+- Placer skabelonfilen index.md i /docs 
+- Opret en tom fil med navnet index.html
 - Opret eventuelt filerne index-en.md og index-en.html i /docs hvis engelsk oversættelse ønskes
 - Opret eventuelt undermappen /docs/img hvis der skal indgå illustrationer
 
