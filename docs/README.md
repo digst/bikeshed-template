@@ -1,17 +1,29 @@
 
-HTML-indholdet er udstilles som GitHub Pages[1] her: https://digst.github.io/bikeshed-template/docs/
+HTML-indholdet  udstilles som GitHub Pages[1] her: https://digst.github.io/bikeshed-template/docs/
 
 Her ligger følgende filer:
 - README.md - Denne fil
-- index.md - Mastertekst i Markdown-format  [2] [3]
+- index.md - Mastertekst i Markdown-format 
 - index.html - Mastertekst konverteret til html
 
-[1] Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings' (scroll ned til GitHub Pages)
+# Sådan anvendes Bikeshed som skabelon til udstilling af specifikationer
 
-[2] Konvertering kan fx ske via Bikeshed's webformular: https://api.csswg.org/bikeshed/
+## 1 Aktivér GitHub Pages
+Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings' (scroll ned til GitHub Pages)
 
-[3] Word (docx) filer kan konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
+## 2 Konvertér eventuelt Word (docs) indhold til MD
+Word (docx) filer kan konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
 
+## 3 Konvertér MD til HTML 
+Konvertering af Markdown-indhold til HTML kan fx ske via Bikeshed's webformular: https://api.csswg.org/bikeshed/
+  
+- Kopier index.md-teksten fra GitHub ind i Bikeshed's webformular: https://api.csswg.org/bikeshed/
+- Vælg Output = Generated HTML og vælg Force HTML. og klik 'Proces'
+- Hvis alt ser ok ud (selvom billederne vil mangle), så ’Vis kilde’ og kopier HTML-outputtet
+- Åbn index.html-filen på GitHub og indsæt HTML-outputtet og gem
+- Vent 3-5 minutter på at GitHub pages genererer visningen: 
+
+## 4 Tilføj tabindex i HTML-filen (WCAG) 
 Indsæt følgende script nederst i body i index.html filen, for at tilføje tabindex i indholdsfortegnelse:
 
 <script>
