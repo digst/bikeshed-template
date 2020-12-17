@@ -144,14 +144,14 @@ p.italic{font-style: italic!important;}
 </style>
 
 <pre class="metadata">
-Title: Prefix 1.0.0: Titel (på engelsk)
+Title: Prefix 1.0.0: Title
 Status: LD
 URL: https://github.com/digst/bikeshed-template/tree/main/
 Editor Term: Publisher, Publishers
 Editor: The Danish Agency for Digitisation,, arkitektur@digst.dk
 
 
-Abstract: 'Titel (på engelsk)' .
+Abstract: 'Title' .
 Boilerplate: copyright no, conformance no, abstract no
 Shortname: Kort titel (på engelsk)
 Revision: 1.0.0 
@@ -164,7 +164,7 @@ Logo: digst...
 </pre>
 
 
-<h1>Prefix 1.0.0: Titel (på engelsk) </h1>
+<h1>Prefix 1.0.0: Title </h1>
 
 This is a non-normative translation of: URL
 # H1
