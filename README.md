@@ -25,6 +25,7 @@ Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 
 ### 3 Opret indhold i Markdown-format 
 - Skriv din tekst i Markdown format i filen index.md
+
 Find en Markdwon Guide til GitHub her: https://guides.github.com/features/mastering-markdown/. 
 NB: Word (docx) filer kan også konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
 
