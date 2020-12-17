@@ -19,7 +19,7 @@ Læs mere:
 ### 2 Aktivér GitHub Pages
 Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 - Gå til repositoriets hovedside
-- Vælg Settings (det lille tandjhul)
+- Vælg Settings (det lille tandhjul)
 - Scroll ned til indstillingerne for GitHub Pages
 - Aktiver og vælg at opbygge html-visningen fra /docs-mappen fra 'main branch'
 
