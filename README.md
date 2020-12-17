@@ -1,9 +1,11 @@
 # bikeshed-template
 
+Se skabelonen i anvendelse her: https://digst.github.io/bikeshed-template/
+
 Læs mere: 
--https://tabatkins.github.io/bikeshed/ 
--https://github.com/tabatkins/bikeshed/blob/master/docs/quick-start.md
--https://github.com/tabatkins/bikeshed
+- https://tabatkins.github.io/bikeshed/ 
+- https://github.com/tabatkins/bikeshed/blob/master/docs/quick-start.md
+- https://github.com/tabatkins/bikeshed
 
 
 ## Anvendelse af Bikeshed som skabelon til udstilling af specifikationer
