@@ -20,7 +20,7 @@ Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 Word (docx) filer kan konverteres til Markdown via fx: https://euangoddard.github.io/clipboard2markdown/
 
 ### 4 Konvertér MD til HTML 
-Konvertering af Markdown-indhold til HTML kan fx ske via Bikeshed's webformular: https://api.csswg.org/bikeshed/
+Konvertering af Markdown-indhold til HTML kan fx ske via Bikeshed's webformular.
   
 - Kopier index.md-teksten fra GitHub ind i Bikeshed's webformular: https://api.csswg.org/bikeshed/
 - Vælg Output = Generated HTML og vælg Force HTML. og klik 'Proces'
