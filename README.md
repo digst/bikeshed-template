@@ -1,6 +1,6 @@
 # bikeshed-template
 
-Bikeshed Template - Læs mere her: https://tabatkins.github.io/bikeshed/
+Bikeshed Template - Læs mere: https://tabatkins.github.io/bikeshed/ og https://github.com/tabatkins/bikeshed/blob/master/docs/quick-start.md
 
 
 ## Anvendelse af Bikeshed som skabelon til udstilling af specifikationer
