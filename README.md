@@ -80,4 +80,5 @@ Indsæt følgende script nederst i body i index.html filen, for at tilføje tabi
     document.getElementsByTagName("html")[0].setAttribute("lang", "da");
 </script>
 ```
-### 6 Ret 'Table of contents' til 'Indholdsfortegnelse', og 'This version' til 'Denne version'
+### 6 Ret engelske meta-labels til dansk.
+'Table of contents' til 'Indholdsfortegnelse', og 'This version' til 'Denne version'. 'Translation' til 'Oversættelse'
