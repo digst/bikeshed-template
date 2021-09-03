@@ -22,7 +22,7 @@ Udstilling via GitHub Pages kan aktiveres via repositoriets 'Settings'
 - Gå til repositoriets hovedside
 - Vælg Settings (det lille tandhjul)
 - Scroll ned til indstillingerne for GitHub Pages
-- Aktiver og vælg at opbygge html-visningen fra /docs-mappen fra 'main branch'
+- Aktiver og vælg at opbygge html-visningen fra /root-mappen fra 'main branch'
 
 ### 3 Opret indhold i Markdown-format 
 - Skriv din tekst i Markdown format i filen index.md 
